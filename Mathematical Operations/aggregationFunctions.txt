@@ -1,0 +1,8 @@
+function   -> What it does
+------------------------------------
+np.sum(arr) -> add all elements
+np.mean(arr) -> calculate average
+np.min(arr) -> minimum element
+np.max(arr) -> maximum element
+np.std(arr) -> standard deviation
+np.var(arr) -> calculate variants
